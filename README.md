@@ -1,3 +1,3 @@
 # hello-world
-First assignment gfobhiofdncv jxc 
-I'm Abel, but my friends call me Cookie. So, where's the party?
+First assignment.
+My name is Abel, but you can call me anytime ;)
